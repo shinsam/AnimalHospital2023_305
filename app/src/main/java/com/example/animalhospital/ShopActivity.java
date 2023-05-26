@@ -39,6 +39,7 @@ public class ShopActivity extends AppCompatActivity implements View.OnClickListe
         findViewById(R.id.btn_minus).setOnClickListener(this);
         findViewById(R.id.btn_plus).setOnClickListener(this);
         findViewById(R.id.btn_pay).setOnClickListener(this);
+        //git
 
     }
 
